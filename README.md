@@ -8,3 +8,6 @@ libs.
 ## Nippelbrett
 
 ## Spielzeugherd
+
+## Sidelight (WS2812)
+[Subproject](sidelight/README.md)
